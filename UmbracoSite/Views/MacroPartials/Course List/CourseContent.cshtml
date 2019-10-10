@@ -1,0 +1,97 @@
+﻿@using ContentModels = Umbraco.Web.PublishedModels;
+@using Umbraco.Web;
+@inherits Umbraco.Web.Macros.PartialViewMacroPage
+
+@{
+    var root = Umbraco.ContentAtRoot().FirstOrDefault();
+    var currentPage = Umbraco.AssignedContentItem;
+
+    int pageNumber = 1;
+    int pageSize = 2;
+    //get pageNumber and pageSize by model
+    if (!string.IsNullOrEmpty((string)Model.MacroParameters["pageNumber"]))
+    {
+        int.TryParse((string)Model.MacroParameters["pageNumber"], out pageNumber);
+    }
+    if (!string.IsNullOrEmpty((string)Model.MacroParameters["pageSize"]))
+    {
+        int.TryParse((string)Model.MacroParameters["pageSize"], out pageSize);
+    }
+
+    var items = new List<IPublishedContent>();
+    var coursesContent = root.Children().Where(p => p.IsDocumentType("courses")).FirstOrDefault();
+    if (coursesContent != null)
+    {
+        items = coursesContent.Children
+            .Where(p=>p.Value<List<IPublishedContent>>("courseType").Contains(currentPage))
+            .ToList();
+    }
+
+    var pageCount = (int)Math.Ceiling((double)items.Count / (double)pageSize);
+
+    //get pageNumber by request
+    if (!string.IsNullOrEmpty(Request.QueryString["page"]))
+    {
+        int.TryParse(Request.QueryString["page"], out pageNumber);
+        if (pageNumber <= 0 || pageNumber > pageCount)
+        {
+            pageNumber = 1;
+        }
+    }
+
+    var pagingItems= items.Skip((pageNumber - 1) * pageSize).Take(pageSize).ToList();
+}
+<!-- start course content container -->
+<div class="mu-course-container">
+    <div class="row">
+        @foreach (var item in pagingItems)
+        {
+            <div class="col-md-6 col-sm-6">
+                <div class="mu-latest-course-single">
+                    <figure class="mu-latest-course-img">
+                        <a href="@item.Url"><img src="@item.Value("courseImage")" alt="img"></a>
+                        <figcaption class="mu-latest-course-imgcaption">
+                            <a href="@currentPage.Url">@currentPage.Name</a>
+                            <span><i class="fa fa-clock-o"></i>@item.Value("courseDuration")</span>
+                        </figcaption>
+                    </figure>
+                    <div class="mu-latest-course-single-content">
+                        <h4><a href="@item.Url">@item.Value("courseTitle")</a></h4>
+                        <p>@Html.Truncate(item.Value<string>("courseDescription"), 150, true)</p>
+                        <div class="mu-latest-course-single-contbottom">
+                            <a class="mu-course-details" href="@item.Url">Details</a>
+                            <span class="mu-course-price" href="@item.Url">@item.Value("coursePrice")</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+<!-- end course content container -->
+
+@if(pageCount>1)
+{
+<!-- start course pagination -->
+<div class="mu-pagination">
+    <nav>
+        <ul class="pagination">
+            <li>
+                <a href="#" aria-label="Previous">
+                    <span class="fa fa-angle-left"></span> Prev
+                </a>
+            </li>
+            @for (int i = 1; i <= pageCount; i++)
+            {
+                <li class="@(pageNumber == i ? "active" : null)"><a href="@(currentPage.Url + "?page=" + i)">@i</a></li>
+            }
+            <li>
+                <a href="#" aria-label="Next">
+                    Next <span class="fa fa-angle-right"></span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</div>
+<!-- end course pagination -->
+}

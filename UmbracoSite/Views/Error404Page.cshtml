@@ -1,0 +1,25 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoViewPage<ContentModels.Error404Page>
+@using ContentModels = Umbraco.Web.PublishedModels;
+@{
+    Layout = "masterTemplate.cshtml";
+}
+@{ 
+    var root = Umbraco.ContentAtRoot().FirstOrDefault();
+    var currentPage = Umbraco.AssignedContentItem;
+}
+<!-- Start error section  -->
+<section id="mu-error">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="mu-error-area">
+                    <p>@Umbraco.GetDictionaryValue("Error404Oops")</p>
+                    <span>@Umbraco.GetDictionaryValue("Error404Content")</span>
+                    <h2>@Umbraco.GetDictionaryValue("Error404Number")</h2>
+                    <a class="mu-post-btn" href="@root.Url">@Umbraco.GetDictionaryValue("Error404GoHome")</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End error section  -->

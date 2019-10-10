@@ -1,0 +1,1 @@
+{"@t":"2019-07-31T07:15:20.5345831Z","@mt":"{LogPrefix} Terminating {Immediate}","LogPrefix":"[LogScrubber] ","Immediate":"","SourceContext":"Umbraco.Web.Scheduling.BackgroundTaskRunner","ProcessId":3620,"ProcessName":"iisexpress","ThreadId":59,"AppDomainId":4,"AppDomainAppId":"LMW3SVC3ROOT","MachineName":"DESKTOP-DHEDIOQ","Log4NetLevel":"INFO "}

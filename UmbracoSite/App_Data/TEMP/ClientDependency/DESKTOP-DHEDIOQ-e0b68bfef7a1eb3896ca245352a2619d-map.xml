@@ -1,0 +1,393 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<map>
+  <item key="L3VtYnJhY28vYXNzZXRzL2Nzcy91bWJyYWNvLmNzczsvdW1icmFjby9saWIvYm9vdHN0cmFwLXNvY2lhbC9ib290c3RyYXAtc29jaWFsLmNzczsvdW1icmFjby9saWIvZm9udC1hd2Vzb21lL2Nzcy9mb250LWF3ZXNvbWUubWluLmNzczs" file="D:\Learn\Project\Umbraco_Train_Project\UmbracoSite\App_Data\TEMP\ClientDependency\1453220554_17eb35e01914453a8bb73fad23acb6b6.cdC" compression="gzip" version="1453220554">
+    <files>
+      <file name="/umbraco/assets/css/umbraco.css" />
+      <file name="/umbraco/lib/bootstrap-social/bootstrap-social.css" />
+      <file name="/umbraco/lib/font-awesome/css/font-awesome.min.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnkubWluLmpzOy91bWJyYWNvL2xpYi9qcXVlcnktdWkvanF1ZXJ5LXVpLm1pbi5qczsvdW1icmFjby9saWIvanF1ZXJ5LXVpLXRvdWNoLXB1bmNoL2pxdWVyeS51aS50b3VjaC1wdW5jaC5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXIvYW5ndWxhci5qczsvdW1icmFjby9saWIvdW5kZXJzY29yZS91bmRlcnNjb3JlLW1pbi5qczsvdW1icmFjby9saWIvbW9tZW50L21vbWVudC5taW4uanM7L3VtYnJhY28vbGliL2ZsYXRwaWNrci9mbGF0cGlja3IuanM7L3VtYnJhY28vbGliL2FuaW1lanMvYW5pbWUubWluLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLXJvdXRlL2FuZ3VsYXItcm91dGUuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItY29va2llcy9hbmd1bGFyLWNvb2tpZXMuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItdG91Y2gvYW5ndWxhci10b3VjaC5qczsvdW1icmFjby9saWIvYW5ndWxhci1zYW5pdGl6ZS9hbmd1bGFyLXNhbml0aXplLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLWFuaW1hdGUvYW5ndWxhci1hbmltYXRlLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLW1lc3NhZ2VzL2FuZ3VsYXItbWVzc2FnZXMuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItdWktc29ydGFibGUvc29ydGFibGUuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItZHluYW1pYy1sb2NhbGUvdG1oRHluYW1pY0xvY2FsZS5taW4uanM7L3VtYnJhY28vbGliL25nLWZpbGUtdXBsb2FkL25nLWZpbGUtdXBsb2FkLm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci1sb2NhbC1zdG9yYWdlL2FuZ3VsYXItbG9jYWwtc3RvcmFnZS5taW4uanM7L3VtYnJhY28vbGliL2NoYXJ0LmpzL2NoYXJ0Lm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci1jaGFydC5qcy9hbmd1bGFyLWNoYXJ0Lm1pbi5qczsvdW1icmFjby9saWIvdW1icmFjby9FeHRlbnNpb25zLmpzOy91bWJyYWNvL2xpYi91bWJyYWNvL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY28vbGliL3VtYnJhY28vTGVnYWN5U3BlZWNoQnViYmxlLmpzOy91bWJyYWNvL2pzL2FwcC5qczsvdW1icmFjby9qcy91bWJyYWNvLnJlc291cmNlcy5qczsvdW1icmFjby9qcy91bWJyYWNvLmRpcmVjdGl2ZXMuanM7L3VtYnJhY28vanMvdW1icmFjby5maWx0ZXJzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uc2VydmljZXMuanM7L3VtYnJhY28vanMvdW1icmFjby5pbnRlcmNlcHRvcnMuanM7L3VtYnJhY28vanMvdW1icmFjby5jb250cm9sbGVycy5qczsvdW1icmFjby9qcy9yb3V0ZXMuanM7L3VtYnJhY28vanMvaW5pdC5qczsvQXBwX1BsdWdpbnMvTW9kZWxzQnVpbGRlci9tb2RlbHNidWlsZGVyLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL01vZGVsc0J1aWxkZXIvbW9kZWxzYnVpbGRlci5yZXNvdXJjZS5qczsvQXBwX1BsdWdpbnMvVW1icmFjb0Zvcm1zL2pzL3VtYnJhY28uZm9ybXMuanM7L0FwcF9QbHVnaW5zL1dvcmRDb3VudGVyL3dvcmRjb3VudGVyLmNvbnRyb2xsZXIuanM7" file="D:\Learn\Project\Umbraco_Train_Project\UmbracoSite\App_Data\TEMP\ClientDependency\1453220554_41e45324056d4528a8f0c43edbe8a6fb.cdJ" compression="gzip" version="1453220554">
+    <files>
+      <file name="/umbraco/lib/jquery/jquery.min.js" />
+      <file name="/umbraco/lib/jquery-ui/jquery-ui.min.js" />
+      <file name="/umbraco/lib/jquery-ui-touch-punch/jquery.ui.touch-punch.min.js" />
+      <file name="/umbraco/lib/angular/angular.js" />
+      <file name="/umbraco/lib/underscore/underscore-min.js" />
+      <file name="/umbraco/lib/moment/moment.min.js" />
+      <file name="/umbraco/lib/flatpickr/flatpickr.js" />
+      <file name="/umbraco/lib/animejs/anime.min.js" />
+      <file name="/umbraco/lib/angular-route/angular-route.js" />
+      <file name="/umbraco/lib/angular-cookies/angular-cookies.js" />
+      <file name="/umbraco/lib/angular-touch/angular-touch.js" />
+      <file name="/umbraco/lib/angular-sanitize/angular-sanitize.js" />
+      <file name="/umbraco/lib/angular-animate/angular-animate.js" />
+      <file name="/umbraco/lib/angular-messages/angular-messages.js" />
+      <file name="/umbraco/lib/angular-ui-sortable/sortable.js" />
+      <file name="/umbraco/lib/angular-dynamic-locale/tmhDynamicLocale.min.js" />
+      <file name="/umbraco/lib/ng-file-upload/ng-file-upload.min.js" />
+      <file name="/umbraco/lib/angular-local-storage/angular-local-storage.min.js" />
+      <file name="/umbraco/lib/chart.js/chart.min.js" />
+      <file name="/umbraco/lib/angular-chart.js/angular-chart.min.js" />
+      <file name="/umbraco/lib/umbraco/Extensions.js" />
+      <file name="/umbraco/lib/umbraco/NamespaceManager.js" />
+      <file name="/umbraco/lib/umbraco/LegacySpeechBubble.js" />
+      <file name="/umbraco/js/app.js" />
+      <file name="/umbraco/js/umbraco.resources.js" />
+      <file name="/umbraco/js/umbraco.directives.js" />
+      <file name="/umbraco/js/umbraco.filters.js" />
+      <file name="/umbraco/js/umbraco.services.js" />
+      <file name="/umbraco/js/umbraco.interceptors.js" />
+      <file name="/umbraco/js/umbraco.controllers.js" />
+      <file name="/umbraco/js/routes.js" />
+      <file name="/umbraco/js/init.js" />
+      <file name="/App_Plugins/ModelsBuilder/modelsbuilder.controller.js" />
+      <file name="/App_Plugins/ModelsBuilder/modelsbuilder.resource.js" />
+      <file name="/App_Plugins/UmbracoForms/js/umbraco.forms.js" />
+      <file name="/App_Plugins/WordCounter/wordcounter.controller.js" />
+    </files>
+  </item>
+  <item key="L0FwcF9QbHVnaW5zL1VtYnJhY29Gb3Jtcy9jc3MvdW1icmFjby5mb3Jtcy5jc3M7" file="D:\Learn\Project\Umbraco_Train_Project\UmbracoSite\App_Data\TEMP\ClientDependency\1453220554_4aa1a0fbbedf49baa4e1c6edca01662b.cdC" compression="gzip" version="1453220554">
+    <files>
+      <file name="/App_Plugins/UmbracoForms/css/umbraco.forms.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnkubWluLmpzOy91bWJyYWNvL2xpYi9qcXVlcnktdWkvanF1ZXJ5LXVpLm1pbi5qczsvdW1icmFjby9saWIvanF1ZXJ5LXVpLXRvdWNoLXB1bmNoL2pxdWVyeS51aS50b3VjaC1wdW5jaC5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXIvYW5ndWxhci5qczsvdW1icmFjby9saWIvdW5kZXJzY29yZS91bmRlcnNjb3JlLW1pbi5qczsvdW1icmFjby9saWIvbW9tZW50L21vbWVudC5taW4uanM7L3VtYnJhY28vbGliL2ZsYXRwaWNrci9mbGF0cGlja3IuanM7L3VtYnJhY28vbGliL2FuaW1lanMvYW5pbWUubWluLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLXJvdXRlL2FuZ3VsYXItcm91dGUuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItY29va2llcy9hbmd1bGFyLWNvb2tpZXMuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItdG91Y2gvYW5ndWxhci10b3VjaC5qczsvdW1icmFjby9saWIvYW5ndWxhci1zYW5pdGl6ZS9hbmd1bGFyLXNhbml0aXplLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLWFuaW1hdGUvYW5ndWxhci1hbmltYXRlLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLW1lc3NhZ2VzL2FuZ3VsYXItbWVzc2FnZXMuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItdWktc29ydGFibGUvc29ydGFibGUuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItZHluYW1pYy1sb2NhbGUvdG1oRHluYW1pY0xvY2FsZS5taW4uanM7L3VtYnJhY28vbGliL25nLWZpbGUtdXBsb2FkL25nLWZpbGUtdXBsb2FkLm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci1sb2NhbC1zdG9yYWdlL2FuZ3VsYXItbG9jYWwtc3RvcmFnZS5taW4uanM7L3VtYnJhY28vbGliL2NoYXJ0LmpzL2NoYXJ0Lm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci1jaGFydC5qcy9hbmd1bGFyLWNoYXJ0Lm1pbi5qczsvdW1icmFjby9saWIvdW1icmFjby9FeHRlbnNpb25zLmpzOy91bWJyYWNvL2xpYi91bWJyYWNvL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY28vbGliL3VtYnJhY28vTGVnYWN5U3BlZWNoQnViYmxlLmpzOy91bWJyYWNvL2pzL2FwcC5qczsvdW1icmFjby9qcy91bWJyYWNvLnJlc291cmNlcy5qczsvdW1icmFjby9qcy91bWJyYWNvLmRpcmVjdGl2ZXMuanM7L3VtYnJhY28vanMvdW1icmFjby5maWx0ZXJzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uc2VydmljZXMuanM7L3VtYnJhY28vanMvdW1icmFjby5pbnRlcmNlcHRvcnMuanM7L3VtYnJhY28vanMvdW1icmFjby5jb250cm9sbGVycy5qczsvdW1icmFjby9qcy9yb3V0ZXMuanM7L3VtYnJhY28vanMvaW5pdC5qczsvQXBwX1BsdWdpbnMvTW9kZWxzQnVpbGRlci9tb2RlbHNidWlsZGVyLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL01vZGVsc0J1aWxkZXIvbW9kZWxzYnVpbGRlci5yZXNvdXJjZS5qczsvQXBwX1BsdWdpbnMvVW1icmFjb0Zvcm1zL2pzL3VtYnJhY28uZm9ybXMuanM7" file="D:\Learn\Project\Umbraco_Train_Project\UmbracoSite\App_Data\TEMP\ClientDependency\1453220554_d3356ff32932455fb764f31c6c2f752f.cdJ" compression="gzip" version="1453220554">
+    <files>
+      <file name="/umbraco/lib/jquery/jquery.min.js" />
+      <file name="/umbraco/lib/jquery-ui/jquery-ui.min.js" />
+      <file name="/umbraco/lib/jquery-ui-touch-punch/jquery.ui.touch-punch.min.js" />
+      <file name="/umbraco/lib/angular/angular.js" />
+      <file name="/umbraco/lib/underscore/underscore-min.js" />
+      <file name="/umbraco/lib/moment/moment.min.js" />
+      <file name="/umbraco/lib/flatpickr/flatpickr.js" />
+      <file name="/umbraco/lib/animejs/anime.min.js" />
+      <file name="/umbraco/lib/angular-route/angular-route.js" />
+      <file name="/umbraco/lib/angular-cookies/angular-cookies.js" />
+      <file name="/umbraco/lib/angular-touch/angular-touch.js" />
+      <file name="/umbraco/lib/angular-sanitize/angular-sanitize.js" />
+      <file name="/umbraco/lib/angular-animate/angular-animate.js" />
+      <file name="/umbraco/lib/angular-messages/angular-messages.js" />
+      <file name="/umbraco/lib/angular-ui-sortable/sortable.js" />
+      <file name="/umbraco/lib/angular-dynamic-locale/tmhDynamicLocale.min.js" />
+      <file name="/umbraco/lib/ng-file-upload/ng-file-upload.min.js" />
+      <file name="/umbraco/lib/angular-local-storage/angular-local-storage.min.js" />
+      <file name="/umbraco/lib/chart.js/chart.min.js" />
+      <file name="/umbraco/lib/angular-chart.js/angular-chart.min.js" />
+      <file name="/umbraco/lib/umbraco/Extensions.js" />
+      <file name="/umbraco/lib/umbraco/NamespaceManager.js" />
+      <file name="/umbraco/lib/umbraco/LegacySpeechBubble.js" />
+      <file name="/umbraco/js/app.js" />
+      <file name="/umbraco/js/umbraco.resources.js" />
+      <file name="/umbraco/js/umbraco.directives.js" />
+      <file name="/umbraco/js/umbraco.filters.js" />
+      <file name="/umbraco/js/umbraco.services.js" />
+      <file name="/umbraco/js/umbraco.interceptors.js" />
+      <file name="/umbraco/js/umbraco.controllers.js" />
+      <file name="/umbraco/js/routes.js" />
+      <file name="/umbraco/js/init.js" />
+      <file name="/App_Plugins/ModelsBuilder/modelsbuilder.controller.js" />
+      <file name="/App_Plugins/ModelsBuilder/modelsbuilder.resource.js" />
+      <file name="/App_Plugins/UmbracoForms/js/umbraco.forms.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vYXNzZXRzL2Nzcy9jYW52YXNkZXNpZ25lci5jc3M7" file="D:\Learn\Project\Umbraco_Train_Project\UmbracoSite\App_Data\TEMP\ClientDependency\1453220554_e9cdfa981ada4774a4477f2822f7fa80.cdC" compression="gzip" version="1453220554">
+    <files>
+      <file name="/umbraco/assets/css/canvasdesigner.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnkubWluLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyL2FuZ3VsYXIuanM7L3VtYnJhY28vbGliL3VuZGVyc2NvcmUvdW5kZXJzY29yZS1taW4uanM7L3VtYnJhY28vbGliL3VtYnJhY28vRXh0ZW5zaW9ucy5qczsvdW1icmFjby9qcy9hcHAuanM7L3VtYnJhY28vanMvdW1icmFjby5yZXNvdXJjZXMuanM7L3VtYnJhY28vanMvdW1icmFjby5zZXJ2aWNlcy5qczsvdW1icmFjby9qcy91bWJyYWNvLmludGVyY2VwdG9ycy5qczs" file="D:\Learn\Project\Umbraco_Train_Project\UmbracoSite\App_Data\TEMP\ClientDependency\1453220554_94067c74992c48e9861bb7a832af3b11.cdJ" compression="gzip" version="1453220554">
+    <files>
+      <file name="/umbraco/lib/jquery/jquery.min.js" />
+      <file name="/umbraco/lib/angular/angular.js" />
+      <file name="/umbraco/lib/underscore/underscore-min.js" />
+      <file name="/umbraco/lib/umbraco/Extensions.js" />
+      <file name="/umbraco/js/app.js" />
+      <file name="/umbraco/js/umbraco.resources.js" />
+      <file name="/umbraco/js/umbraco.services.js" />
+      <file name="/umbraco/js/umbraco.interceptors.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vbGliL3NpZ25hbHIvanF1ZXJ5LnNpZ25hbFIuanM7" file="D:\Learn\Project\Umbraco_Train_Project\UmbracoSite\App_Data\TEMP\ClientDependency\1453220554_a3b16b66e791462a948b8e3e0d516ed3.cdJ" compression="gzip" version="1453220554">
+    <files>
+      <file name="/umbraco/lib/signalr/jquery.signalR.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vanMvdW1icmFjby5wcmV2aWV3LmpzOw" file="D:\Learn\Project\Umbraco_Train_Project\UmbracoSite\App_Data\TEMP\ClientDependency\1453220554_e6df8888c49f477093071e7fcb4b9e18.cdJ" compression="gzip" version="1453220554">
+    <files>
+      <file name="/umbraco/js/umbraco.preview.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnkubWluLmpzOy91bWJyYWNvL2xpYi9qcXVlcnktdWkvanF1ZXJ5LXVpLm1pbi5qczsvdW1icmFjby9saWIvanF1ZXJ5LXVpLXRvdWNoLXB1bmNoL2pxdWVyeS51aS50b3VjaC1wdW5jaC5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXIvYW5ndWxhci5qczsvdW1icmFjby9saWIvdW5kZXJzY29yZS91bmRlcnNjb3JlLW1pbi5qczsvdW1icmFjby9saWIvbW9tZW50L21vbWVudC5taW4uanM7L3VtYnJhY28vbGliL2ZsYXRwaWNrci9mbGF0cGlja3IuanM7L3VtYnJhY28vbGliL2FuaW1lanMvYW5pbWUubWluLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLXJvdXRlL2FuZ3VsYXItcm91dGUuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItY29va2llcy9hbmd1bGFyLWNvb2tpZXMuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItdG91Y2gvYW5ndWxhci10b3VjaC5qczsvdW1icmFjby9saWIvYW5ndWxhci1zYW5pdGl6ZS9hbmd1bGFyLXNhbml0aXplLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLWFuaW1hdGUvYW5ndWxhci1hbmltYXRlLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLW1lc3NhZ2VzL2FuZ3VsYXItbWVzc2FnZXMuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItdWktc29ydGFibGUvc29ydGFibGUuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItZHluYW1pYy1sb2NhbGUvdG1oRHluYW1pY0xvY2FsZS5taW4uanM7L3VtYnJhY28vbGliL25nLWZpbGUtdXBsb2FkL25nLWZpbGUtdXBsb2FkLm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci1sb2NhbC1zdG9yYWdlL2FuZ3VsYXItbG9jYWwtc3RvcmFnZS5taW4uanM7L3VtYnJhY28vbGliL2NoYXJ0LmpzL2NoYXJ0Lm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci1jaGFydC5qcy9hbmd1bGFyLWNoYXJ0Lm1pbi5qczsvdW1icmFjby9saWIvdW1icmFjby9FeHRlbnNpb25zLmpzOy91bWJyYWNvL2xpYi91bWJyYWNvL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY28vbGliL3VtYnJhY28vTGVnYWN5U3BlZWNoQnViYmxlLmpzOy91bWJyYWNvL2pzL2FwcC5qczsvdW1icmFjby9qcy91bWJyYWNvLnJlc291cmNlcy5qczsvdW1icmFjby9qcy91bWJyYWNvLmRpcmVjdGl2ZXMuanM7L3VtYnJhY28vanMvdW1icmFjby5maWx0ZXJzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uc2VydmljZXMuanM7L3VtYnJhY28vanMvdW1icmFjby5pbnRlcmNlcHRvcnMuanM7L3VtYnJhY28vanMvdW1icmFjby5jb250cm9sbGVycy5qczsvdW1icmFjby9qcy9yb3V0ZXMuanM7L3VtYnJhY28vanMvaW5pdC5qczsvQXBwX1BsdWdpbnMvTW9kZWxzQnVpbGRlci9tb2RlbHNidWlsZGVyLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL01vZGVsc0J1aWxkZXIvbW9kZWxzYnVpbGRlci5yZXNvdXJjZS5qczs" file="D:\Learn\Project\Umbraco_Train_Project\UmbracoSite\App_Data\TEMP\ClientDependency\1453220554_d57f31d033de48d69afdb5289cb77e2b.cdJ" compression="gzip" version="1453220554">
+    <files>
+      <file name="/umbraco/lib/jquery/jquery.min.js" />
+      <file name="/umbraco/lib/jquery-ui/jquery-ui.min.js" />
+      <file name="/umbraco/lib/jquery-ui-touch-punch/jquery.ui.touch-punch.min.js" />
+      <file name="/umbraco/lib/angular/angular.js" />
+      <file name="/umbraco/lib/underscore/underscore-min.js" />
+      <file name="/umbraco/lib/moment/moment.min.js" />
+      <file name="/umbraco/lib/flatpickr/flatpickr.js" />
+      <file name="/umbraco/lib/animejs/anime.min.js" />
+      <file name="/umbraco/lib/angular-route/angular-route.js" />
+      <file name="/umbraco/lib/angular-cookies/angular-cookies.js" />
+      <file name="/umbraco/lib/angular-touch/angular-touch.js" />
+      <file name="/umbraco/lib/angular-sanitize/angular-sanitize.js" />
+      <file name="/umbraco/lib/angular-animate/angular-animate.js" />
+      <file name="/umbraco/lib/angular-messages/angular-messages.js" />
+      <file name="/umbraco/lib/angular-ui-sortable/sortable.js" />
+      <file name="/umbraco/lib/angular-dynamic-locale/tmhDynamicLocale.min.js" />
+      <file name="/umbraco/lib/ng-file-upload/ng-file-upload.min.js" />
+      <file name="/umbraco/lib/angular-local-storage/angular-local-storage.min.js" />
+      <file name="/umbraco/lib/chart.js/chart.min.js" />
+      <file name="/umbraco/lib/angular-chart.js/angular-chart.min.js" />
+      <file name="/umbraco/lib/umbraco/Extensions.js" />
+      <file name="/umbraco/lib/umbraco/NamespaceManager.js" />
+      <file name="/umbraco/lib/umbraco/LegacySpeechBubble.js" />
+      <file name="/umbraco/js/app.js" />
+      <file name="/umbraco/js/umbraco.resources.js" />
+      <file name="/umbraco/js/umbraco.directives.js" />
+      <file name="/umbraco/js/umbraco.filters.js" />
+      <file name="/umbraco/js/umbraco.services.js" />
+      <file name="/umbraco/js/umbraco.interceptors.js" />
+      <file name="/umbraco/js/umbraco.controllers.js" />
+      <file name="/umbraco/js/routes.js" />
+      <file name="/umbraco/js/init.js" />
+      <file name="/App_Plugins/ModelsBuilder/modelsbuilder.controller.js" />
+      <file name="/App_Plugins/ModelsBuilder/modelsbuilder.resource.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vYXNzZXRzL2Nzcy91bWJyYWNvLmNzczsvdW1icmFjby9saWIvYm9vdHN0cmFwLXNvY2lhbC9ib290c3RyYXAtc29jaWFsLmNzczsvdW1icmFjby9saWIvZm9udC1hd2Vzb21lL2Nzcy9mb250LWF3ZXNvbWUubWluLmNzczs" file="D:\Learn\Project\Umbraco_Train_Project\UmbracoSite\App_Data\TEMP\ClientDependency\1089650637_e36c286b5e6049fb8f7d036bc6ff6c8c.cdC" compression="gzip" version="1089650637">
+    <files>
+      <file name="/umbraco/assets/css/umbraco.css" />
+      <file name="/umbraco/lib/bootstrap-social/bootstrap-social.css" />
+      <file name="/umbraco/lib/font-awesome/css/font-awesome.min.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnkubWluLmpzOy91bWJyYWNvL2xpYi9qcXVlcnktdWkvanF1ZXJ5LXVpLm1pbi5qczsvdW1icmFjby9saWIvanF1ZXJ5LXVpLXRvdWNoLXB1bmNoL2pxdWVyeS51aS50b3VjaC1wdW5jaC5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXIvYW5ndWxhci5qczsvdW1icmFjby9saWIvdW5kZXJzY29yZS91bmRlcnNjb3JlLW1pbi5qczsvdW1icmFjby9saWIvbW9tZW50L21vbWVudC5taW4uanM7L3VtYnJhY28vbGliL2ZsYXRwaWNrci9mbGF0cGlja3IuanM7L3VtYnJhY28vbGliL2FuaW1lanMvYW5pbWUubWluLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLXJvdXRlL2FuZ3VsYXItcm91dGUuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItY29va2llcy9hbmd1bGFyLWNvb2tpZXMuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItdG91Y2gvYW5ndWxhci10b3VjaC5qczsvdW1icmFjby9saWIvYW5ndWxhci1zYW5pdGl6ZS9hbmd1bGFyLXNhbml0aXplLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLWFuaW1hdGUvYW5ndWxhci1hbmltYXRlLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLW1lc3NhZ2VzL2FuZ3VsYXItbWVzc2FnZXMuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItdWktc29ydGFibGUvc29ydGFibGUuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItZHluYW1pYy1sb2NhbGUvdG1oRHluYW1pY0xvY2FsZS5taW4uanM7L3VtYnJhY28vbGliL25nLWZpbGUtdXBsb2FkL25nLWZpbGUtdXBsb2FkLm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci1sb2NhbC1zdG9yYWdlL2FuZ3VsYXItbG9jYWwtc3RvcmFnZS5taW4uanM7L3VtYnJhY28vbGliL2NoYXJ0LmpzL2NoYXJ0Lm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci1jaGFydC5qcy9hbmd1bGFyLWNoYXJ0Lm1pbi5qczsvdW1icmFjby9saWIvdW1icmFjby9FeHRlbnNpb25zLmpzOy91bWJyYWNvL2xpYi91bWJyYWNvL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY28vbGliL3VtYnJhY28vTGVnYWN5U3BlZWNoQnViYmxlLmpzOy91bWJyYWNvL2pzL2FwcC5qczsvdW1icmFjby9qcy91bWJyYWNvLnJlc291cmNlcy5qczsvdW1icmFjby9qcy91bWJyYWNvLmRpcmVjdGl2ZXMuanM7L3VtYnJhY28vanMvdW1icmFjby5maWx0ZXJzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uc2VydmljZXMuanM7L3VtYnJhY28vanMvdW1icmFjby5pbnRlcmNlcHRvcnMuanM7L3VtYnJhY28vanMvdW1icmFjby5jb250cm9sbGVycy5qczsvdW1icmFjby9qcy9yb3V0ZXMuanM7L3VtYnJhY28vanMvaW5pdC5qczsvQXBwX1BsdWdpbnMvTW9kZWxzQnVpbGRlci9tb2RlbHNidWlsZGVyLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL01vZGVsc0J1aWxkZXIvbW9kZWxzYnVpbGRlci5yZXNvdXJjZS5qczsvQXBwX1BsdWdpbnMvdUNvbW1lcmNlUGlja2VyL1VDb21tZXJjZUNsaWVudE1nci5qczs" file="D:\Learn\Project\Umbraco_Train_Project\UmbracoSite\App_Data\TEMP\ClientDependency\1089650637_c7292639fcab47f7b6e168d19f2f31d9.cdJ" compression="gzip" version="1089650637">
+    <files>
+      <file name="/umbraco/lib/jquery/jquery.min.js" />
+      <file name="/umbraco/lib/jquery-ui/jquery-ui.min.js" />
+      <file name="/umbraco/lib/jquery-ui-touch-punch/jquery.ui.touch-punch.min.js" />
+      <file name="/umbraco/lib/angular/angular.js" />
+      <file name="/umbraco/lib/underscore/underscore-min.js" />
+      <file name="/umbraco/lib/moment/moment.min.js" />
+      <file name="/umbraco/lib/flatpickr/flatpickr.js" />
+      <file name="/umbraco/lib/animejs/anime.min.js" />
+      <file name="/umbraco/lib/angular-route/angular-route.js" />
+      <file name="/umbraco/lib/angular-cookies/angular-cookies.js" />
+      <file name="/umbraco/lib/angular-touch/angular-touch.js" />
+      <file name="/umbraco/lib/angular-sanitize/angular-sanitize.js" />
+      <file name="/umbraco/lib/angular-animate/angular-animate.js" />
+      <file name="/umbraco/lib/angular-messages/angular-messages.js" />
+      <file name="/umbraco/lib/angular-ui-sortable/sortable.js" />
+      <file name="/umbraco/lib/angular-dynamic-locale/tmhDynamicLocale.min.js" />
+      <file name="/umbraco/lib/ng-file-upload/ng-file-upload.min.js" />
+      <file name="/umbraco/lib/angular-local-storage/angular-local-storage.min.js" />
+      <file name="/umbraco/lib/chart.js/chart.min.js" />
+      <file name="/umbraco/lib/angular-chart.js/angular-chart.min.js" />
+      <file name="/umbraco/lib/umbraco/Extensions.js" />
+      <file name="/umbraco/lib/umbraco/NamespaceManager.js" />
+      <file name="/umbraco/lib/umbraco/LegacySpeechBubble.js" />
+      <file name="/umbraco/js/app.js" />
+      <file name="/umbraco/js/umbraco.resources.js" />
+      <file name="/umbraco/js/umbraco.directives.js" />
+      <file name="/umbraco/js/umbraco.filters.js" />
+      <file name="/umbraco/js/umbraco.services.js" />
+      <file name="/umbraco/js/umbraco.interceptors.js" />
+      <file name="/umbraco/js/umbraco.controllers.js" />
+      <file name="/umbraco/js/routes.js" />
+      <file name="/umbraco/js/init.js" />
+      <file name="/App_Plugins/ModelsBuilder/modelsbuilder.controller.js" />
+      <file name="/App_Plugins/ModelsBuilder/modelsbuilder.resource.js" />
+      <file name="/App_Plugins/uCommercePicker/UCommerceClientMgr.js" />
+    </files>
+  </item>
+  <item key="L0FwcF9QbHVnaW5zL3VDb21tZXJjZUljb25zL3N0eWxlLmNzczs" file="D:\Learn\Project\Umbraco_Train_Project\UmbracoSite\App_Data\TEMP\ClientDependency\1089650637_ab8539a62c8c437ea6861d273f0cd110.cdC" compression="gzip" version="1089650637">
+    <files>
+      <file name="/App_Plugins/uCommerceIcons/style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vdWNvbW1lcmNlL3NjcmlwdHMvYXBwL1Jlc291cmNlcy9jb250ZW50LnJlc291cmNlLmpzOy91bWJyYWNvL3Vjb21tZXJjZS9zY3JpcHRzL2FwcC9TZXJ2aWNlcy9jb250ZW50LXBpY2tlci5zZXJ2aWNlLmpzOy91bWJyYWNvL3Vjb21tZXJjZS9zY3JpcHRzL2FwcC9TZXJ2aWNlcy90cmVlTm9kZUljb25TZXJ2aWNlLnNlcnZpY2UuanM7L0FwcF9QbHVnaW5zL3VDb21tZXJjZVBpY2tlci90cmVlLmNvbnRyb2xsZXIuanM7L3VtYnJhY28vdWNvbW1lcmNlL3NjcmlwdHMvYXBwL0NvbnRyb2xsZXJzL3ByZXNlbGVjdGVkLXZhbHVlcy1saXN0LmNvbnRyb2xsZXIuanM7L3VtYnJhY28vdWNvbW1lcmNlL3NjcmlwdHMvYXBwL0NvbnRyb2xsZXJzL2NvbnRlbnQtdHJlZS5jb250cm9sbGVyLmpzOy91bWJyYWNvL3Vjb21tZXJjZS9zY3JpcHRzL2FwcC9Db250cm9sbGVycy9jYXRhbG9nLXNlYXJjaC5jb250cm9sbGVyLmpzOy91bWJyYWNvL3Vjb21tZXJjZS9zY3JpcHRzL2FwcC9Db250cm9sbGVycy9jb250ZW50LXBpY2tlci5jb250cm9sbGVyLmpzOy91bWJyYWNvL3Vjb21tZXJjZS9zY3JpcHRzL2FwcC9Db250cm9sbGVycy9tdWx0aS1waWNrZXIuY29udHJvbGxlci5qczsvdW1icmFjby91Y29tbWVyY2Uvc2NyaXB0cy9hcHAvRGlyZWN0aXZlcy91Y29tbWVyY2UtY2F0YWxvZy1zZWFyY2gvdWNvbW1lcmNlLmNhdGFsb2cuc2VhcmNoLmRpcmVjdGl2ZS5qczsvdW1icmFjby91Y29tbWVyY2Uvc2NyaXB0cy9hcHAvRGlyZWN0aXZlcy91Y29tbWVyY2UtcHJlc2VsZWN0ZWQtdmFsdWVzLWxpc3QvcHJlc2VsZWN0ZWRWYWx1ZXNMaXN0LmpzOy91bWJyYWNvL3Vjb21tZXJjZS9zY3JpcHRzL2FwcC9EaXJlY3RpdmVzL3Vjb21tZXJjZS10cmVlL3Vjb21tZXJjZS50cmVlLmRpcmVjdGl2ZS5qczsvdW1icmFjby91Y29tbWVyY2Uvc2NyaXB0cy9hcHAvRGlyZWN0aXZlcy91Y29tbWVyY2UtY29udGVudC10cmVlL3Vjb21tZXJjZS5jb250ZW50LXRyZWUuZGlyZWN0aXZlLmpzOy91bWJyYWNvL3Vjb21tZXJjZS9zY3JpcHRzL2FwcC9EaXJlY3RpdmVzL3Vjb21tZXJjZS1tdWx0aS1waWNrZXIvdWNvbW1lcmNlLm11bHRpLXBpY2tlci5kaXJlY3RpdmUuanM7L0FwcF9QbHVnaW5zL3VDb21tZXJjZVBpY2tlci9mYWN0b3J5LmpzOy9BcHBfUGx1Z2lucy91Q29tbWVyY2VUcmVlVGl0bGUvVUNvbW1lcmNlVHJlZVRpdGxlLmpzOw" file="D:\Learn\Project\Umbraco_Train_Project\UmbracoSite\App_Data\TEMP\ClientDependency\1089650637_5b85acebc3fe45bd91e5392313eb95fa.cdJ" compression="gzip" version="1089650637">
+    <files>
+      <file name="/umbraco/ucommerce/scripts/app/Resources/content.resource.js" />
+      <file name="/umbraco/ucommerce/scripts/app/Services/content-picker.service.js" />
+      <file name="/umbraco/ucommerce/scripts/app/Services/treeNodeIconService.service.js" />
+      <file name="/App_Plugins/uCommercePicker/tree.controller.js" />
+      <file name="/umbraco/ucommerce/scripts/app/Controllers/preselected-values-list.controller.js" />
+      <file name="/umbraco/ucommerce/scripts/app/Controllers/content-tree.controller.js" />
+      <file name="/umbraco/ucommerce/scripts/app/Controllers/catalog-search.controller.js" />
+      <file name="/umbraco/ucommerce/scripts/app/Controllers/content-picker.controller.js" />
+      <file name="/umbraco/ucommerce/scripts/app/Controllers/multi-picker.controller.js" />
+      <file name="/umbraco/ucommerce/scripts/app/Directives/ucommerce-catalog-search/ucommerce.catalog.search.directive.js" />
+      <file name="/umbraco/ucommerce/scripts/app/Directives/ucommerce-preselected-values-list/preselectedValuesList.js" />
+      <file name="/umbraco/ucommerce/scripts/app/Directives/ucommerce-tree/ucommerce.tree.directive.js" />
+      <file name="/umbraco/ucommerce/scripts/app/Directives/ucommerce-content-tree/ucommerce.content-tree.directive.js" />
+      <file name="/umbraco/ucommerce/scripts/app/Directives/ucommerce-multi-picker/ucommerce.multi-picker.directive.js" />
+      <file name="/App_Plugins/uCommercePicker/factory.js" />
+      <file name="/App_Plugins/uCommerceTreeTitle/UCommerceTreeTitle.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vdWNvbW1lcmNlL2Nzcy9VbWJyYWNvOC91Y29tbWVyY2UuY3NzOy91bWJyYWNvL3Vjb21tZXJjZS9jc3MvVW1icmFjbzgvYm9vdHN0cmFwLm1pbi5jc3M7L3VtYnJhY28vdWNvbW1lcmNlL2Nzcy9mb250cy9jc3MvZm9udC1hd2Vzb21lLm1pbi5jc3M7L3VtYnJhY28vdWNvbW1lcmNlLy91bWJyYWNvL2Fzc2V0cy9jc3MvdW1icmFjby5jc3M7L3VtYnJhY28vdWNvbW1lcmNlL2Nzcy9mb250cy9jc3MvdUNvbW1lcmNlLWljb24tZm9udC5jc3M7L3VtYnJhY28vdWNvbW1lcmNlL2Nzcy9VbWJyYWNvOC9oZWx2ZXRpY29ucy9oZWx2ZXRpY29ucy5jc3M7L3VtYnJhY28vdWNvbW1lcmNlL2Nzcy9VbWJyYWNvOC9zaGVsbC5jc3M7" file="D:\Learn\Project\Umbraco_Train_Project\UmbracoSite\App_Data\TEMP\ClientDependency\1089650637_b18347b9147246fb975d0062585111f8.cdC" compression="gzip" version="1089650637">
+    <files>
+      <file name="/umbraco/ucommerce/css/Umbraco8/ucommerce.css" />
+      <file name="/umbraco/ucommerce/css/Umbraco8/bootstrap.min.css" />
+      <file name="/umbraco/ucommerce/css/fonts/css/font-awesome.min.css" />
+      <file name="/umbraco/ucommerce/css/fonts/css/uCommerce-icon-font.css" />
+      <file name="/umbraco/ucommerce/css/Umbraco8/helveticons/helveticons.css" />
+      <file name="/umbraco/ucommerce/css/Umbraco8/shell.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vdWNvbW1lcmNlL3NjcmlwdHMvU2hlbGwvdWkvanF1ZXJ5LmpzOy91bWJyYWNvL3Vjb21tZXJjZS9zY3JpcHRzL1RvZ2dsZS5qczsvdW1icmFjby91Y29tbWVyY2Uvc2NyaXB0cy9Bbmd1bGFyL2FuZ3VsYXIuanM7L3VtYnJhY28vdWNvbW1lcmNlL3NjcmlwdHMvU2hlbGwvdWkvanF1ZXJ5dWkuanM7L3VtYnJhY28vdWNvbW1lcmNlL3NjcmlwdHMvQW5ndWxhci9hbmd1bGFyLWxvY2FsLXN0b3JhZ2UubWluLmpzOy91bWJyYWNvL3Vjb21tZXJjZS9zY3JpcHRzL2Jvb3RzdHJhcC9ib290c3RyYXAubWluLmpzOy91bWJyYWNvL3Vjb21tZXJjZS9zY3JpcHRzL011bHRpc2VsZWN0L2Jvb3RzdHJhcC1tdWx0aXNlbGVjdC5qczsvdW1icmFjby91Y29tbWVyY2Uvc2NyaXB0cy9Hcmlkc3Rlci9ncmlkc3Rlci5taW4uanM7L3VtYnJhY28vdWNvbW1lcmNlL3NjcmlwdHMvQXBwL2FwcC5qczsvdW1icmFjby91Y29tbWVyY2Uvc2NyaXB0cy9UaW1lUGlja2VyL1RpbWVQaWNrZXIuanM7L3VtYnJhY28vdWNvbW1lcmNlL3NjcmlwdHMvQXBwL19tb2R1bGVzLmpzOy91bWJyYWNvL3Vjb21tZXJjZS9zY3JpcHRzL0FwcC9SZXNvdXJjZXMvZGVmaW5pdGlvbnMucmVzb3VyY2UuanM7L3VtYnJhY28vdWNvbW1lcmNlL3NjcmlwdHMvQXBwL1Jlc291cmNlcy9jb250ZW50LnJlc291cmNlLmpzOy91bWJyYWNvL3Vjb21tZXJjZS9zY3JpcHRzL0FwcC9SZXNvdXJjZXMvd2lkZ2V0LnJlc291cmNlLmpzOy91bWJyYWNvL3Vjb21tZXJjZS9zY3JpcHRzL0FwcC9SZXNvdXJjZXMvbG9jYWxpemF0aW9uLnJlc291cmNlcy5qczsvdW1icmFjby91Y29tbWVyY2Uvc2NyaXB0cy9BcHAvU2VydmljZXMvZGVmaW5pdGlvbnMuc2VydmljZS5qczsvdW1icmFjby91Y29tbWVyY2Uvc2NyaXB0cy9BcHAvU2VydmljZXMvY29udGVudC1waWNrZXIuc2VydmljZS5qczsvdW1icmFjby91Y29tbWVyY2Uvc2NyaXB0cy9BcHAvU2VydmljZXMvVHJlZU5vZGVJY29uU2VydmljZS5zZXJ2aWNlLmpzOy91bWJyYWNvL3Vjb21tZXJjZS9zY3JpcHRzL0FwcC9TZXJ2aWNlcy93aWRnZXQuc2VydmljZS5qczsvdW1icmFjby91Y29tbWVyY2Uvc2NyaXB0cy9BcHAvU2VydmljZXMvd2lkZ2V0VGFibGUuc2VydmljZS5qczsvdW1icmFjby91Y29tbWVyY2Uvc2NyaXB0cy9BcHAvU2VydmljZXMvbG9jYWxpemF0aW9uLnNlcnZpY2UuanM7L3VtYnJhY28vdWNvbW1lcmNlL3NjcmlwdHMvQXBwL0RpcmVjdGl2ZXMvdWNvbW1lcmNlLWNhdGFsb2ctc2VhcmNoL3Vjb21tZXJjZS5jYXRhbG9nLnNlYXJjaC5kaXJlY3RpdmUuanM7L3VtYnJhY28vdWNvbW1lcmNlL3NjcmlwdHMvQXBwL0RpcmVjdGl2ZXMvdWNvbW1lcmNlLXByZXNlbGVjdGVkLXZhbHVlcy1saXN0L3ByZXNlbGVjdGVkVmFsdWVzTGlzdC5qczsvdW1icmFjby91Y29tbWVyY2Uvc2NyaXB0cy9BcHAvRGlyZWN0aXZlcy91Y29tbWVyY2UtdHJlZS91Y29tbWVyY2UudHJlZS5kaXJlY3RpdmUuanM7" file="D:\Learn\Project\Umbraco_Train_Project\UmbracoSite\App_Data\TEMP\ClientDependency\1089650637_dd31928d7be54371b3505c2e1eb6284c.cdJ" compression="gzip" version="1089650637">
+    <files>
+      <file name="/umbraco/ucommerce/scripts/Shell/ui/jquery.js" />
+      <file name="/umbraco/ucommerce/scripts/Toggle.js" />
+      <file name="/umbraco/ucommerce/scripts/Angular/angular.js" />
+      <file name="/umbraco/ucommerce/scripts/Shell/ui/jqueryui.js" />
+      <file name="/umbraco/ucommerce/scripts/Angular/angular-local-storage.min.js" />
+      <file name="/umbraco/ucommerce/scripts/bootstrap/bootstrap.min.js" />
+      <file name="/umbraco/ucommerce/scripts/Multiselect/bootstrap-multiselect.js" />
+      <file name="/umbraco/ucommerce/scripts/Gridster/gridster.min.js" />
+      <file name="/umbraco/ucommerce/scripts/App/app.js" />
+      <file name="/umbraco/ucommerce/scripts/TimePicker/TimePicker.js" />
+      <file name="/umbraco/ucommerce/scripts/App/_modules.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Resources/definitions.resource.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Resources/content.resource.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Resources/widget.resource.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Resources/localization.resources.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Services/definitions.service.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Services/content-picker.service.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Services/TreeNodeIconService.service.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Services/widget.service.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Services/widgetTable.service.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Services/localization.service.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Directives/ucommerce-catalog-search/ucommerce.catalog.search.directive.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Directives/ucommerce-preselected-values-list/preselectedValuesList.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Directives/ucommerce-tree/ucommerce.tree.directive.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vdWNvbW1lcmNlL3NjcmlwdHMvQXBwL0NvbnRyb2xsZXJzL2RlZmluaXRpb25zR3JhcGguY29udHJvbGxlci5qczsvdW1icmFjby91Y29tbWVyY2Uvc2NyaXB0cy9BcHAvQ29udHJvbGxlcnMvcHJlc2VsZWN0ZWQtdmFsdWVzLWxpc3QuY29udHJvbGxlci5qczsvdW1icmFjby91Y29tbWVyY2Uvc2NyaXB0cy9BcHAvQ29udHJvbGxlcnMvd2lkZ2V0LmNvbnRyb2xsZXIuanM7L3VtYnJhY28vdWNvbW1lcmNlL3NjcmlwdHMvQXBwL0NvbnRyb2xsZXJzL3dpZGdldHMuY29udHJvbGxlci5qczsvdW1icmFjby91Y29tbWVyY2Uvc2NyaXB0cy9BcHAvQ29udHJvbGxlcnMvd2lkZ2V0LlJlc2l6YWJsZS5jb250cm9sbGVyLmpzOy91bWJyYWNvL3Vjb21tZXJjZS9zY3JpcHRzL0FwcC9Db250cm9sbGVycy9hcHAucHJldmlldy5jb250cm9sbGVyLmpzOy91bWJyYWNvL3Vjb21tZXJjZS9zY3JpcHRzL0FwcC9Db250cm9sbGVycy9hcHAuaW5zdGFsbGVyLmNvbnRyb2xsZXIuanM7L3VtYnJhY28vdWNvbW1lcmNlL3NjcmlwdHMvQXBwL0NvbnRyb2xsZXJzL2FwcHMuaW5zdGFsbGVkLmNvbnRyb2xsZXIuanM7L3VtYnJhY28vdWNvbW1lcmNlL3NjcmlwdHMvQXBwL0NvbnRyb2xsZXJzL2NhdGFsb2ctc2VhcmNoLmNvbnRyb2xsZXIuanM7L3VtYnJhY28vdWNvbW1lcmNlL3NjcmlwdHMvQXBwL0ZhY3RvcnkvRmFjdG9yeS5qczsvdW1icmFjby91Y29tbWVyY2Uvc2NyaXB0cy90aW55X21jZS9qcXVlcnkudGlueW1jZS5qczsvdW1icmFjby91Y29tbWVyY2UvL0FwcHMvV2lkZ2V0cy9hbmFseXRpY3NEYXRhQ2hhcnQvYW5hbHl0aWNzRGF0YUNoYXJ0LmNvbnRyb2xsZXIuanM7L3VtYnJhY28vdWNvbW1lcmNlLy9BcHBzL1dpZGdldHMvYW5hbHl0aWNzRGF0YUNoYXJ0L0FuYWx5dGljc0RhdGFDaGFydC5qczsvdW1icmFjby91Y29tbWVyY2UvL0FwcHMvV2lkZ2V0cy9DYXRhbG9nU2VhcmNoL0NhdGFsb2dTZWFyY2guY29udHJvbGxlci5qczsvdW1icmFjby91Y29tbWVyY2UvL0FwcHMvV2lkZ2V0cy9DYXRhbG9nU2VhcmNoL0NhdGFsb2dTZWFyY2guanM7L3VtYnJhY28vdWNvbW1lcmNlLy9BcHBzL1dpZGdldHMvTWFya2V0aW5nVGltZWxpbmUvTWFya2V0aW5nVGltZWxpbmUuY29udHJvbGxlci5qczsvdW1icmFjby91Y29tbWVyY2UvL0FwcHMvV2lkZ2V0cy9NYXJrZXRpbmdUaW1lbGluZS9NYXJrZXRpbmdUaW1lbGluZS5qczsvdW1icmFjby91Y29tbWVyY2UvL0FwcHMvV2lkZ2V0cy9PcmRlckxpc3QvT3JkZXJMaXN0LmNvbnRyb2xsZXIuanM7L3VtYnJhY28vdWNvbW1lcmNlLy9BcHBzL1dpZGdldHMvT3JkZXJMaXN0L09yZGVyTGlzdC5qczsvdW1icmFjby91Y29tbWVyY2UvL0FwcHMvV2lkZ2V0cy9PcmRlckxpc3QvU2Nyb2xsLmpzOy91bWJyYWNvL3Vjb21tZXJjZS8vQXBwcy9XaWRnZXRzL09yZGVyc0J5RGF0ZXMvT3JkZXJzQnlEYXRlcy5jb250cm9sbGVyLmpzOw" file="D:\Learn\Project\Umbraco_Train_Project\UmbracoSite\App_Data\TEMP\ClientDependency\1089650637_04a57fdc3024416dbed43c8e9f491153.cdJ" compression="gzip" version="1089650637">
+    <files>
+      <file name="/umbraco/ucommerce/scripts/App/Controllers/definitionsGraph.controller.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Controllers/preselected-values-list.controller.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Controllers/widget.controller.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Controllers/widgets.controller.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Controllers/widget.Resizable.controller.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Controllers/app.preview.controller.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Controllers/app.installer.controller.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Controllers/apps.installed.controller.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Controllers/catalog-search.controller.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Factory/Factory.js" />
+      <file name="/umbraco/ucommerce/scripts/tiny_mce/jquery.tinymce.js" />
+      <file name="/umbraco/ucommerce//Apps/Widgets/analyticsDataChart/analyticsDataChart.controller.js" />
+      <file name="/umbraco/ucommerce//Apps/Widgets/analyticsDataChart/AnalyticsDataChart.js" />
+      <file name="/umbraco/ucommerce//Apps/Widgets/CatalogSearch/CatalogSearch.controller.js" />
+      <file name="/umbraco/ucommerce//Apps/Widgets/CatalogSearch/CatalogSearch.js" />
+      <file name="/umbraco/ucommerce//Apps/Widgets/MarketingTimeline/MarketingTimeline.controller.js" />
+      <file name="/umbraco/ucommerce//Apps/Widgets/MarketingTimeline/MarketingTimeline.js" />
+      <file name="/umbraco/ucommerce//Apps/Widgets/OrderList/OrderList.controller.js" />
+      <file name="/umbraco/ucommerce//Apps/Widgets/OrderList/OrderList.js" />
+      <file name="/umbraco/ucommerce//Apps/Widgets/OrderList/Scroll.js" />
+      <file name="/umbraco/ucommerce//Apps/Widgets/OrdersByDates/OrdersByDates.controller.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vdWNvbW1lcmNlL3NjcmlwdHMvQXBwL0RpcmVjdGl2ZXMvcmlnaHRjbGljay91Y29tbWVyY2UucmlnaHRjbGljay5kaXJlY3RpdmUuanM7L3VtYnJhY28vdWNvbW1lcmNlL3NjcmlwdHMvQXBwL0RpcmVjdGl2ZXMvdWNvbW1lcmNlLWNvbnRlbnQtcGlja2VyL3Vjb21tZXJjZS5jb250ZW50LXBpY2tlci5kaXJlY3RpdmUuanM7L3VtYnJhY28vdWNvbW1lcmNlL3NjcmlwdHMvQXBwL0RpcmVjdGl2ZXMvdWNvbW1lcmNlLWNvbnRlbnQtcGlja2VyLWxhdW5jaGVyL3Vjb21tZXJjZS5jb250ZW50LXBpY2tlci1sYXVuY2hlci5kaXJlY3RpdmUuanM7L3VtYnJhY28vdWNvbW1lcmNlL3NjcmlwdHMvQXBwL0RpcmVjdGl2ZXMvdWNvbW1lcmNlLWNvbnRlbnQtdHJlZS91Y29tbWVyY2UuY29udGVudC10cmVlLmRpcmVjdGl2ZS5qczsvdW1icmFjby91Y29tbWVyY2Uvc2NyaXB0cy9BcHAvRGlyZWN0aXZlcy91Y29tbWVyY2UtbXVsdGktcGlja2VyL3Vjb21tZXJjZS5tdWx0aS1waWNrZXIuZGlyZWN0aXZlLmpzOy91bWJyYWNvL3Vjb21tZXJjZS9zY3JpcHRzL0FwcC9EaXJlY3RpdmVzL3Vjb21tZXJjZS1kZWZpbml0aW9uLWdyYXBoL2RlZmluaXRpb25zR3JhcGguanM7L3VtYnJhY28vdWNvbW1lcmNlL3NjcmlwdHMvQXBwL0RpcmVjdGl2ZXMvdWNvbW1lcmNlLXdpZGdldHMvdWNvbW1lcmNlLndpZGdldC5qczsvdW1icmFjby91Y29tbWVyY2Uvc2NyaXB0cy9BcHAvRGlyZWN0aXZlcy91Y29tbWVyY2Utd2lkZ2V0cy91Y29tbWVyY2Uud2lkZ2V0cy5qczsvdW1icmFjby91Y29tbWVyY2Uvc2NyaXB0cy9BcHAvRGlyZWN0aXZlcy91Y29tbWVyY2Utd2lkZ2V0cy91Y29tbWVyY2UucmVzaXphYmxlVGV4dC5qczsvdW1icmFjby91Y29tbWVyY2Uvc2NyaXB0cy9BcHAvRGlyZWN0aXZlcy91Y29tbWVyY2UtYXBwLWluc3RhbGxlci91Y29tbWVyY2UuYXBwLmluc3RhbGxlci5qczsvdW1icmFjby91Y29tbWVyY2Uvc2NyaXB0cy9BcHAvRGlyZWN0aXZlcy91Y29tbWVyY2UtYXBwLXByZXZpZXcvdWNvbW1lcmNlLmFwcC5wcmV2aWV3LmpzOy91bWJyYWNvL3Vjb21tZXJjZS9zY3JpcHRzL0FwcC9EaXJlY3RpdmVzL3Vjb21tZXJjZS1hcHBzLWluc3RhbGxlZC91Y29tbWVyY2UuYXBwcy5pbnN0YWxsZWQuanM7L3VtYnJhY28vdWNvbW1lcmNlL3NjcmlwdHMvQXBwL0NvbnRyb2xsZXJzL2NvbnRlbnQtcGlja2VyLmNvbnRyb2xsZXIuanM7L3VtYnJhY28vdWNvbW1lcmNlL3NjcmlwdHMvQXBwL0NvbnRyb2xsZXJzL2NvbnRlbnQtcGlja2VyLWxhdW5jaGVyLmNvbnRyb2xsZXIuanM7L3VtYnJhY28vdWNvbW1lcmNlL3NjcmlwdHMvQXBwL0NvbnRyb2xsZXJzL3RyZWUuY29udHJvbGxlci5qczsvdW1icmFjby91Y29tbWVyY2Uvc2NyaXB0cy9BcHAvQ29udHJvbGxlcnMvY29udGVudC10cmVlLmNvbnRyb2xsZXIuanM7L3VtYnJhY28vdWNvbW1lcmNlL3NjcmlwdHMvQXBwL0NvbnRyb2xsZXJzL211bHRpLXBpY2tlci5jb250cm9sbGVyLmpzOw" file="D:\Learn\Project\Umbraco_Train_Project\UmbracoSite\App_Data\TEMP\ClientDependency\1089650637_50cd9cd368c0489f8f0ed97ec3448018.cdJ" compression="gzip" version="1089650637">
+    <files>
+      <file name="/umbraco/ucommerce/scripts/App/Directives/rightclick/ucommerce.rightclick.directive.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Directives/ucommerce-content-picker/ucommerce.content-picker.directive.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Directives/ucommerce-content-picker-launcher/ucommerce.content-picker-launcher.directive.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Directives/ucommerce-content-tree/ucommerce.content-tree.directive.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Directives/ucommerce-multi-picker/ucommerce.multi-picker.directive.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Directives/ucommerce-definition-graph/definitionsGraph.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Directives/ucommerce-widgets/ucommerce.widget.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Directives/ucommerce-widgets/ucommerce.widgets.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Directives/ucommerce-widgets/ucommerce.resizableText.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Directives/ucommerce-app-installer/ucommerce.app.installer.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Directives/ucommerce-app-preview/ucommerce.app.preview.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Directives/ucommerce-apps-installed/ucommerce.apps.installed.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Controllers/content-picker.controller.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Controllers/content-picker-launcher.controller.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Controllers/tree.controller.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Controllers/content-tree.controller.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Controllers/multi-picker.controller.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vdWNvbW1lcmNlLy9BcHBzL1dpZGdldHMvT3JkZXJzQnlEYXRlcy9PcmRlcnNCeURhdGVzLmpzOy91bWJyYWNvL3Vjb21tZXJjZS8vQXBwcy9XaWRnZXRzL09yZGVyc0NvdW50L09yZGVyc0NvdW50LmNvbnRyb2xsZXIuanM7L3VtYnJhY28vdWNvbW1lcmNlLy9BcHBzL1dpZGdldHMvT3JkZXJzQ291bnQvT3JkZXJzQ291bnQuanM7L3VtYnJhY28vdWNvbW1lcmNlLy9BcHBzL1dpZGdldHMvdHVybm92ZXJCeUN1cnJlbmN5L3R1cm5vdmVyQnlDdXJyZW5jeS5jb250cm9sbGVyLmpzOy91bWJyYWNvL3Vjb21tZXJjZS8vQXBwcy9XaWRnZXRzL3R1cm5vdmVyQnlDdXJyZW5jeS90dXJub3ZlckJ5Q3VycmVuY3kuanM7L3VtYnJhY28vdWNvbW1lcmNlL3NjcmlwdHMvZGF0YXRhYmxlL2pxdWVyeS5kYXRhVGFibGVzLmpzOy91bWJyYWNvL3Vjb21tZXJjZS9zY3JpcHRzL3Zpc2pzL3Zpcy5taW4uanM7L3VtYnJhY28vdWNvbW1lcmNlL3NjcmlwdHMvc2hlbGwvVWNvbW1lcmNlVW1icmFjbzguanM7L3VtYnJhY28vdWNvbW1lcmNlL3NjcmlwdHMvQXBwL2xvYWRlci5qczs" file="D:\Learn\Project\Umbraco_Train_Project\UmbracoSite\App_Data\TEMP\ClientDependency\1089650637_3faac88c3bf945179fd29b3c8674a20e.cdJ" compression="gzip" version="1089650637">
+    <files>
+      <file name="/umbraco/ucommerce//Apps/Widgets/OrdersByDates/OrdersByDates.js" />
+      <file name="/umbraco/ucommerce//Apps/Widgets/OrdersCount/OrdersCount.controller.js" />
+      <file name="/umbraco/ucommerce//Apps/Widgets/OrdersCount/OrdersCount.js" />
+      <file name="/umbraco/ucommerce//Apps/Widgets/turnoverByCurrency/turnoverByCurrency.controller.js" />
+      <file name="/umbraco/ucommerce//Apps/Widgets/turnoverByCurrency/turnoverByCurrency.js" />
+      <file name="/umbraco/ucommerce/scripts/datatable/jquery.dataTables.js" />
+      <file name="/umbraco/ucommerce/scripts/visjs/vis.min.js" />
+      <file name="/umbraco/ucommerce/scripts/shell/UcommerceUmbraco8.js" />
+      <file name="/umbraco/ucommerce/scripts/App/loader.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vdWNvbW1lcmNlL3NjcmlwdHMvZGF0YXRhYmxlL2Nzcy9qcXVlcnkuZGF0YVRhYmxlcy5jc3M7L3VtYnJhY28vdWNvbW1lcmNlL2Nzcy9VbWJyYWNvOC9qcXVlcnktdWktMS44LjE2LmN1c3RvbS5jc3M7L3VtYnJhY28vdWNvbW1lcmNlL3NjcmlwdHMvdmlzanMvdmlzLm1pbi5jc3M7L3VtYnJhY28vdWNvbW1lcmNlL3NjcmlwdHMvR3JpZHN0ZXIvZ3JpZHN0ZXIubWluLmNzczsvdW1icmFjby91Y29tbWVyY2UvY3NzL1VtYnJhY284L0NvbW1vbi5jc3M7L3VtYnJhY28vdWNvbW1lcmNlL2Nzcy9VbWJyYWNvOC9MaXN0cy5jc3M7L3VtYnJhY28vdWNvbW1lcmNlL2Nzcy9VbWJyYWNvOC9Nb2RhbC5jc3M7L3VtYnJhY28vdWNvbW1lcmNlL2Nzcy9VbWJyYWNvOC9ib290c3RyYXAtbXVsdGlzZWxlY3QuY3NzOy91bWJyYWNvL3Vjb21tZXJjZS9jc3MvVW1icmFjbzgvU2Nyb2xsaW5nTWVudS5jc3M7L3VtYnJhY28vdWNvbW1lcmNlL2Nzcy9VbWJyYWNvOC9Qcm9wZXJ0eVBhbmUuY3NzOy91bWJyYWNvL3Vjb21tZXJjZS9jc3MvVW1icmFjbzgvVGFiVmlldy5jc3M7L3VtYnJhY28vdWNvbW1lcmNlL2Nzcy9VbWJyYWNvOC9VSS5jc3M7L3VtYnJhY28vdWNvbW1lcmNlL2Nzcy9VbWJyYWNvOC9oZWx2ZXRpY29ucy9oZWx2ZXRpY29ucy5jc3M7L3VtYnJhY28vdWNvbW1lcmNlL2Nzcy9mb250cy9jc3MvZm9udC1hd2Vzb21lLm1pbi5jc3M7L3VtYnJhY28vdWNvbW1lcmNlL2Nzcy9mb250cy9jc3MvZm9udC1hd2Vzb21lLmFuaW1hdGlvbi5taW4uY3NzOy91bWJyYWNvL3Vjb21tZXJjZS9jc3MvZm9udHMvY3NzL3VDb21tZXJjZS1pY29uLWZvbnQuY3NzOy91bWJyYWNvL3Vjb21tZXJjZS9jc3MvQ29tbW9uL1dpZGdldC5jc3M7L3VtYnJhY28vdWNvbW1lcmNlL2Nzcy9VbWJyYWNvOC9XaWRnZXQuY3NzOy91bWJyYWNvL3Vjb21tZXJjZS8vQXBwcy9XaWRnZXRzL2FuYWx5dGljc0RhdGFDaGFydC9hbmFseXRpY3NTdHlsZS5jc3M7L3VtYnJhY28vdWNvbW1lcmNlLy9BcHBzL1dpZGdldHMvQ2F0YWxvZ1NlYXJjaC9DYXRhbG9nU2VhcmNoU3R5bGUuY3NzOy91bWJyYWNvL3Vjb21tZXJjZS8vQXBwcy9XaWRnZXRzL01hcmtldGluZ1RpbWVsaW5lL1RpbWVsaW5lU3R5bGVzLmNzczsvdW1icmFjby91Y29tbWVyY2UvL0FwcHMvV2lkZ2V0cy9PcmRlckxpc3QvT3JkZXJMaXN0LmNzczsvdW1icmFjby91Y29tbWVyY2UvL0FwcHMvV2lkZ2V0cy9PcmRlcnNCeURhdGVzL09yZGVyc0J5RGF0ZXMuY3NzOy91bWJyYWNvL3Vjb21tZXJjZS8vQXBwcy9XaWRnZXRzL09yZGVyc0NvdW50L09yZGVyc0NvdW50LmNzczsvdW1icmFjby91Y29tbWVyY2UvL0FwcHMvV2lkZ2V0cy90dXJub3ZlckJ5Q3VycmVuY3kvdHVybm92ZXJCeUN1cnJlbmN5LmNzczs" file="D:\Learn\Project\Umbraco_Train_Project\UmbracoSite\App_Data\TEMP\ClientDependency\1089650637_805563fd000a4603a69f755f5d392367.cdC" compression="gzip" version="1089650637">
+    <files>
+      <file name="/umbraco/ucommerce/scripts/datatable/css/jquery.dataTables.css" />
+      <file name="/umbraco/ucommerce/css/Umbraco8/jquery-ui-1.8.16.custom.css" />
+      <file name="/umbraco/ucommerce/scripts/visjs/vis.min.css" />
+      <file name="/umbraco/ucommerce/scripts/Gridster/gridster.min.css" />
+      <file name="/umbraco/ucommerce/css/Umbraco8/Common.css" />
+      <file name="/umbraco/ucommerce/css/Umbraco8/Lists.css" />
+      <file name="/umbraco/ucommerce/css/Umbraco8/Modal.css" />
+      <file name="/umbraco/ucommerce/css/Umbraco8/bootstrap-multiselect.css" />
+      <file name="/umbraco/ucommerce/css/Umbraco8/ScrollingMenu.css" />
+      <file name="/umbraco/ucommerce/css/Umbraco8/PropertyPane.css" />
+      <file name="/umbraco/ucommerce/css/Umbraco8/TabView.css" />
+      <file name="/umbraco/ucommerce/css/Umbraco8/UI.css" />
+      <file name="/umbraco/ucommerce/css/Umbraco8/helveticons/helveticons.css" />
+      <file name="/umbraco/ucommerce/css/fonts/css/font-awesome.min.css" />
+      <file name="/umbraco/ucommerce/css/fonts/css/font-awesome.animation.min.css" />
+      <file name="/umbraco/ucommerce/css/fonts/css/uCommerce-icon-font.css" />
+      <file name="/umbraco/ucommerce/css/Common/Widget.css" />
+      <file name="/umbraco/ucommerce/css/Umbraco8/Widget.css" />
+      <file name="/umbraco/ucommerce//Apps/Widgets/analyticsDataChart/analyticsStyle.css" />
+      <file name="/umbraco/ucommerce//Apps/Widgets/CatalogSearch/CatalogSearchStyle.css" />
+      <file name="/umbraco/ucommerce//Apps/Widgets/MarketingTimeline/TimelineStyles.css" />
+      <file name="/umbraco/ucommerce//Apps/Widgets/OrderList/OrderList.css" />
+      <file name="/umbraco/ucommerce//Apps/Widgets/OrdersByDates/OrdersByDates.css" />
+      <file name="/umbraco/ucommerce//Apps/Widgets/OrdersCount/OrdersCount.css" />
+      <file name="/umbraco/ucommerce//Apps/Widgets/turnoverByCurrency/turnoverByCurrency.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vdWNvbW1lcmNlL3NjcmlwdHMvQXBwL0NvbnRyb2xsZXJzL2RlZmluaXRpb25zR3JhcGguY29udHJvbGxlci5qczsvdW1icmFjby91Y29tbWVyY2Uvc2NyaXB0cy9BcHAvQ29udHJvbGxlcnMvcHJlc2VsZWN0ZWQtdmFsdWVzLWxpc3QuY29udHJvbGxlci5qczsvdW1icmFjby91Y29tbWVyY2Uvc2NyaXB0cy9BcHAvQ29udHJvbGxlcnMvd2lkZ2V0LmNvbnRyb2xsZXIuanM7L3VtYnJhY28vdWNvbW1lcmNlL3NjcmlwdHMvQXBwL0NvbnRyb2xsZXJzL3dpZGdldHMuY29udHJvbGxlci5qczsvdW1icmFjby91Y29tbWVyY2Uvc2NyaXB0cy9BcHAvQ29udHJvbGxlcnMvd2lkZ2V0LlJlc2l6YWJsZS5jb250cm9sbGVyLmpzOy91bWJyYWNvL3Vjb21tZXJjZS9zY3JpcHRzL0FwcC9Db250cm9sbGVycy9hcHAucHJldmlldy5jb250cm9sbGVyLmpzOy91bWJyYWNvL3Vjb21tZXJjZS9zY3JpcHRzL0FwcC9Db250cm9sbGVycy9hcHAuaW5zdGFsbGVyLmNvbnRyb2xsZXIuanM7L3VtYnJhY28vdWNvbW1lcmNlL3NjcmlwdHMvQXBwL0NvbnRyb2xsZXJzL2FwcHMuaW5zdGFsbGVkLmNvbnRyb2xsZXIuanM7L3VtYnJhY28vdWNvbW1lcmNlL3NjcmlwdHMvQXBwL0NvbnRyb2xsZXJzL2NhdGFsb2ctc2VhcmNoLmNvbnRyb2xsZXIuanM7L3VtYnJhY28vdWNvbW1lcmNlL3NjcmlwdHMvQXBwL0ZhY3RvcnkvRmFjdG9yeS5qczsvdW1icmFjby91Y29tbWVyY2UvL0FwcHMvV2lkZ2V0cy9hbmFseXRpY3NEYXRhQ2hhcnQvYW5hbHl0aWNzRGF0YUNoYXJ0LmNvbnRyb2xsZXIuanM7L3VtYnJhY28vdWNvbW1lcmNlLy9BcHBzL1dpZGdldHMvYW5hbHl0aWNzRGF0YUNoYXJ0L0FuYWx5dGljc0RhdGFDaGFydC5qczsvdW1icmFjby91Y29tbWVyY2UvL0FwcHMvV2lkZ2V0cy9DYXRhbG9nU2VhcmNoL0NhdGFsb2dTZWFyY2guY29udHJvbGxlci5qczsvdW1icmFjby91Y29tbWVyY2UvL0FwcHMvV2lkZ2V0cy9DYXRhbG9nU2VhcmNoL0NhdGFsb2dTZWFyY2guanM7L3VtYnJhY28vdWNvbW1lcmNlLy9BcHBzL1dpZGdldHMvTWFya2V0aW5nVGltZWxpbmUvTWFya2V0aW5nVGltZWxpbmUuY29udHJvbGxlci5qczsvdW1icmFjby91Y29tbWVyY2UvL0FwcHMvV2lkZ2V0cy9NYXJrZXRpbmdUaW1lbGluZS9NYXJrZXRpbmdUaW1lbGluZS5qczsvdW1icmFjby91Y29tbWVyY2UvL0FwcHMvV2lkZ2V0cy9PcmRlckxpc3QvT3JkZXJMaXN0LmNvbnRyb2xsZXIuanM7L3VtYnJhY28vdWNvbW1lcmNlLy9BcHBzL1dpZGdldHMvT3JkZXJMaXN0L09yZGVyTGlzdC5qczsvdW1icmFjby91Y29tbWVyY2UvL0FwcHMvV2lkZ2V0cy9PcmRlckxpc3QvU2Nyb2xsLmpzOy91bWJyYWNvL3Vjb21tZXJjZS8vQXBwcy9XaWRnZXRzL09yZGVyc0J5RGF0ZXMvT3JkZXJzQnlEYXRlcy5jb250cm9sbGVyLmpzOy91bWJyYWNvL3Vjb21tZXJjZS8vQXBwcy9XaWRnZXRzL09yZGVyc0J5RGF0ZXMvT3JkZXJzQnlEYXRlcy5qczs" file="D:\Learn\Project\Umbraco_Train_Project\UmbracoSite\App_Data\TEMP\ClientDependency\1089650637_945408efa0ba48c894a26df5176291d0.cdJ" compression="gzip" version="1089650637">
+    <files>
+      <file name="/umbraco/ucommerce/scripts/App/Controllers/definitionsGraph.controller.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Controllers/preselected-values-list.controller.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Controllers/widget.controller.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Controllers/widgets.controller.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Controllers/widget.Resizable.controller.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Controllers/app.preview.controller.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Controllers/app.installer.controller.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Controllers/apps.installed.controller.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Controllers/catalog-search.controller.js" />
+      <file name="/umbraco/ucommerce/scripts/App/Factory/Factory.js" />
+      <file name="/umbraco/ucommerce//Apps/Widgets/analyticsDataChart/analyticsDataChart.controller.js" />
+      <file name="/umbraco/ucommerce//Apps/Widgets/analyticsDataChart/AnalyticsDataChart.js" />
+      <file name="/umbraco/ucommerce//Apps/Widgets/CatalogSearch/CatalogSearch.controller.js" />
+      <file name="/umbraco/ucommerce//Apps/Widgets/CatalogSearch/CatalogSearch.js" />
+      <file name="/umbraco/ucommerce//Apps/Widgets/MarketingTimeline/MarketingTimeline.controller.js" />
+      <file name="/umbraco/ucommerce//Apps/Widgets/MarketingTimeline/MarketingTimeline.js" />
+      <file name="/umbraco/ucommerce//Apps/Widgets/OrderList/OrderList.controller.js" />
+      <file name="/umbraco/ucommerce//Apps/Widgets/OrderList/OrderList.js" />
+      <file name="/umbraco/ucommerce//Apps/Widgets/OrderList/Scroll.js" />
+      <file name="/umbraco/ucommerce//Apps/Widgets/OrdersByDates/OrdersByDates.controller.js" />
+      <file name="/umbraco/ucommerce//Apps/Widgets/OrdersByDates/OrdersByDates.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vdWNvbW1lcmNlLy9BcHBzL1dpZGdldHMvT3JkZXJzQ291bnQvT3JkZXJzQ291bnQuY29udHJvbGxlci5qczsvdW1icmFjby91Y29tbWVyY2UvL0FwcHMvV2lkZ2V0cy9PcmRlcnNDb3VudC9PcmRlcnNDb3VudC5qczsvdW1icmFjby91Y29tbWVyY2UvL0FwcHMvV2lkZ2V0cy90dXJub3ZlckJ5Q3VycmVuY3kvdHVybm92ZXJCeUN1cnJlbmN5LmNvbnRyb2xsZXIuanM7L3VtYnJhY28vdWNvbW1lcmNlLy9BcHBzL1dpZGdldHMvdHVybm92ZXJCeUN1cnJlbmN5L3R1cm5vdmVyQnlDdXJyZW5jeS5qczsvdW1icmFjby91Y29tbWVyY2Uvc2NyaXB0cy9kYXRhdGFibGUvanF1ZXJ5LmRhdGFUYWJsZXMuanM7L3VtYnJhY28vdWNvbW1lcmNlL3NjcmlwdHMvdmlzanMvdmlzLm1pbi5qczsvdW1icmFjby91Y29tbWVyY2Uvc2NyaXB0cy9zaGVsbC9VY29tbWVyY2VVbWJyYWNvOC5qczsvdW1icmFjby91Y29tbWVyY2Uvc2NyaXB0cy9BcHAvbG9hZGVyLmpzOw" file="D:\Learn\Project\Umbraco_Train_Project\UmbracoSite\App_Data\TEMP\ClientDependency\1089650637_24a46699e91e4e59afbf0a21296349fd.cdJ" compression="gzip" version="1089650637">
+    <files>
+      <file name="/umbraco/ucommerce//Apps/Widgets/OrdersCount/OrdersCount.controller.js" />
+      <file name="/umbraco/ucommerce//Apps/Widgets/OrdersCount/OrdersCount.js" />
+      <file name="/umbraco/ucommerce//Apps/Widgets/turnoverByCurrency/turnoverByCurrency.controller.js" />
+      <file name="/umbraco/ucommerce//Apps/Widgets/turnoverByCurrency/turnoverByCurrency.js" />
+      <file name="/umbraco/ucommerce/scripts/datatable/jquery.dataTables.js" />
+      <file name="/umbraco/ucommerce/scripts/visjs/vis.min.js" />
+      <file name="/umbraco/ucommerce/scripts/shell/UcommerceUmbraco8.js" />
+      <file name="/umbraco/ucommerce/scripts/App/loader.js" />
+    </files>
+  </item>
+</map>

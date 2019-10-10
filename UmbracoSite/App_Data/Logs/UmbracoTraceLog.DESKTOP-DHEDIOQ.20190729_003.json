@@ -1,0 +1,1 @@
+{"@t":"2019-07-29T06:21:27.9046029Z","@mt":"{LogPrefix} Tasks {TaskStatus}, terminated","LogPrefix":"[ServerInstProcess] ","TaskStatus":"completed","SourceContext":"Umbraco.Web.Scheduling.BackgroundTaskRunner","ProcessId":19772,"ProcessName":"w3wp","ThreadId":183,"AppDomainId":34,"AppDomainAppId":"LMW3SVC7ROOT","MachineName":"DESKTOP-DHEDIOQ","Log4NetLevel":"INFO "}
